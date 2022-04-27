@@ -36,3 +36,11 @@
 .text-color{
  color:#fff
 }
+
+.fixed{
+   text-transform: uppercase;
+   text-align: center;
+   margin-top: 50px;
+   /* margin-bottom: 500px; */
+   text-decoration: underline;
+}
